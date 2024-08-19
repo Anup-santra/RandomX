@@ -1,2 +1,2 @@
 import anup
-anup.manu()
+anup.main()
